@@ -1,0 +1,25 @@
+collections:
+  Reference Audio:
+    libraries: Movies
+    summary: "Get ready for a cinematic adventure where the power of sound takes center stage, transporting you on a captivating >
+    tmdb_list: https://www.themoviedb.org/list/8563963-reference-audio-9
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!20_ref_audio"
+    item_radarr_tag: reference-audio
+  Reference Video:
+    libraries: Movies
+    summary: "Movies with standout video quality according to Shane Lee YouTube review series."
+    tmdb_list: https://www.themoviedb.org/list/8563964-reference-video-9
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!20_ref_video"
+    item_radarr_tag: reference-video
+  Ultimate Bass:
+    libraries: Movies
+    summary: "The ultimate collection of Bass Heavy movies"
+    tmdb_list: https://www.themoviedb.org/list/8643553-ultimate-bass
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!20_utlimate_bass"
+    item_radarr_tag: ultimate-bass
