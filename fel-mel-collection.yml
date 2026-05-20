@@ -1,6 +1,6 @@
 collections:
   FEL:
-    libraries: Movies
+    libraries: Movies UHD
     radarr_taglist: fel
     summary: "Collection of movies with a Full Enhancement Layer ('fel' tag in radarr)."
     collection_mode: default     # To adhere to library settings
@@ -8,7 +8,7 @@ collections:
     sync_mode: sync              # Sync items; remove those not matching the buildery
     sort_title: "!15_fel"
   MEL:
-    libraries: Movies
+    libraries: Movies UHD
     radarr_taglist: mel
     summary: "Collection of movies with a Minimum Enhancement Layer ('mel' tag in radarr)."
     collection_mode: default     # To adhere to library settings
