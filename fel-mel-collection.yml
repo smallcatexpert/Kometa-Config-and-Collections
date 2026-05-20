@@ -2,7 +2,7 @@ collections:
   FEL:
     libraries: Movies UHD
     radarr_taglist: fel
-    summary: "Collection of movies with a Full Enhancement Layer ('fel' tag in radarr)."
+    summary: "Dolby Vision movies with Full Enhancement Layer (FEL) - the highest quality Dolby Vision profile providing maximum dynamic metadata and color grading precision."
     collection_mode: default     # To adhere to library settings
     collection_order: release    # Order by release date
     sync_mode: sync              # Sync items; remove those not matching the buildery
@@ -10,7 +10,7 @@ collections:
   MEL:
     libraries: Movies UHD
     radarr_taglist: mel
-    summary: "Collection of movies with a Minimum Enhancement Layer ('mel' tag in radarr)."
+    summary: "Dolby Vision movies with Minimum Enhancement Layer (MEL) - a lighter Dolby Vision profile with reduced enhancement data."
     collection_mode: default     # To adhere to library settings
     collection_order: release    # Order by release date
     sync_mode: sync              # Sync items; remove those not matching the builder
