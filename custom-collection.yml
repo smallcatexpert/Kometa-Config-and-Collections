@@ -1,11 +1,21 @@
 collections:
   Dollars:
     tmdb_movie:
-      - 391        # A Fistful of Dollars (1964)
-      - 938        # For a Few Dollars More (1965)
-      - 429        # The Good, the Bad and the Ugly (1966)
+      - 391  # A Fistful of Dollars (1964)
+      - 938  # For a Few Dollars More (1965)
+      - 429  # The Good, the Bad and the Ugly (1966)
     summary: "Sergio Leone's iconic Dollars Trilogy starring Clint Eastwood as the mysterious gunslinger the Man with No Name."
-    collection_mode: default     # To adhere to library settings
-    collection_order: release    # Order by release date
-    sync_mode: sync              # Sync items; remove those not matching the builder
+    collection_mode: default  # To adhere to library settings
+    collection_order: release  # Order by release date
+    sync_mode: sync  # Sync items; remove those not matching the builder
     sort_title: "Dollars"
+
+  Grindhouse:
+    tmdb_movie:
+      - 1992  # Planet Terror (2007)
+      - 1991  # Death Proof (2007)
+    summary: "Robert Rodriguez's Planet Terror and Quentin Tarantino's Death Proof, the two films from the 2007 Grindhouse double feature."
+    collection_mode: default  # To adhere to library settings
+    collection_order: release  # Order by release date
+    sync_mode: sync  # Sync items; remove those not matching the builder
+    sort_title: "Grindhouse"

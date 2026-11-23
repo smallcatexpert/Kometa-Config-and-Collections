@@ -2,14 +2,15 @@ collections:
   FEL:
     radarr_taglist: fel
     summary: "Dolby Vision movies with Full Enhancement Layer (FEL) - the highest quality Dolby Vision profile providing maximum dynamic metadata and color grading precision."
-    collection_mode: default     # To adhere to library settings
-    collection_order: release    # Order by release date
-    sync_mode: sync              # Sync items; remove those not matching the buildery
+    collection_mode: default  # To adhere to library settings
+    collection_order: release  # Order by release date
+    sync_mode: sync  # Sync items; remove those not matching the buildery
     sort_title: "!15_fel"
+
   MEL:
     radarr_taglist: mel
     summary: "Dolby Vision movies with Minimum Enhancement Layer (MEL) - a lighter Dolby Vision profile with reduced enhancement data."
-    collection_mode: default     # To adhere to library settings
-    collection_order: release    # Order by release date
-    sync_mode: sync              # Sync items; remove those not matching the builder
+    collection_mode: default  # To adhere to library settings
+    collection_order: release  # Order by release date
+    sync_mode: sync  # Sync items; remove those not matching the builder
     sort_title: "!15_mel"
