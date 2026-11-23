@@ -6,7 +6,7 @@ Custom Kometa collection files for Plex movie libraries, covering curated movie 
 
 | File | Collections | How movies are selected |
 | --- | --- | --- |
-| [Custom collections](custom-collection.yml) | **Dollars** groups Sergio Leone’s Dollars Trilogy. **Grindhouse** pairs *Planet Terror* and *Death Proof*. | Individual TMDB movie IDs |
+| [Custom collections](custom-collection.yml) | Collections that don't have a traditional franchise in TMDB. | Individual TMDB movie IDs |
 | [Dolby Vision FEL and MEL](fel-mel-collection.yml) | **FEL** groups Full Enhancement Layer titles. **MEL** groups Minimum Enhancement Layer titles. | Radarr tags: `fel` and `mel` |
 | [Home theater reference collections](reference-audio-video-collection.yml) | **Reference Audio** and **Reference Video** feature picks based on Shane Lee’s reviews. **Ultimate Bass** highlights movies with deep bass. | Dedicated TMDB lists |
 
