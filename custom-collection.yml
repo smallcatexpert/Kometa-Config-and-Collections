@@ -1,11 +1,11 @@
 collections:
   Dollars:
     tmdb_movie:
-      - 391        # A Fistful of Dollars (1964)
-      - 938        # For a Few Dollars More (1965)
-      - 429        # The Good, the Bad and the Ugly (1966)
+      - 391  # A Fistful of Dollars (1964)
+      - 938  # For a Few Dollars More (1965)
+      - 429  # The Good, the Bad and the Ugly (1966)
     summary: "Sergio Leone's iconic Dollars Trilogy starring Clint Eastwood as the mysterious gunslinger the Man with No Name."
-    collection_mode: default     # To adhere to library settings
-    collection_order: release    # Order by release date
-    sync_mode: sync              # Sync items; remove those not matching the builder
+    collection_mode: default  # To adhere to library settings
+    collection_order: release  # Order by release date
+    sync_mode: sync  # Sync items; remove those not matching the builder
     sort_title: "Dollars"

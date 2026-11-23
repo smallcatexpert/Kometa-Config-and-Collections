@@ -1,21 +1,23 @@
 collections:
   Reference Audio:
-    summary: "Get ready for a cinematic adventure where the power of sound takes center stage, transporting you on a captivating sonic journey like no other. These immersive soundscapes deliver an auditory experience that will leave you breathless and exhilarated."
     tmdb_list: https://www.themoviedb.org/list/8563963-reference-audio-9
+    summary: "Get ready for a cinematic adventure where the power of sound takes center stage, transporting you on a captivating sonic journey like no other. These immersive soundscapes deliver an auditory experience that will leave you breathless and exhilarated."
     collection_order: custom
     sync_mode: sync
     sort_title: "!20_ref_audio"
     item_radarr_tag: reference-audio
+
   Reference Video:
-    summary: "This reference video collection is designed to demonstrate the very best in picture quality, featuring stunning visuals, exceptional black levels, vibrant colors, and breathtaking detail that elevate every frame."
     tmdb_list: https://www.themoviedb.org/list/8563964-reference-video-9
+    summary: "This reference video collection is designed to demonstrate the very best in picture quality, featuring stunning visuals, exceptional black levels, vibrant colors, and breathtaking detail that elevate every frame."
     collection_order: custom
     sync_mode: sync
     sort_title: "!20_ref_video"
     item_radarr_tag: reference-video
+
   Ultimate Bass:
-    summary: "Brace yourself for earth-shaking impact with this ultimate bass movie collection, featuring powerful low-frequency effects, room-rattling dynamics, and cinematic soundtracks designed to push your subwoofers to their limits."
     tmdb_list: https://www.themoviedb.org/list/8643553-ultimate-bass
+    summary: "Brace yourself for earth-shaking impact with this ultimate bass movie collection, featuring powerful low-frequency effects, room-rattling dynamics, and cinematic soundtracks designed to push your subwoofers to their limits."
     collection_order: custom
     sync_mode: sync
     sort_title: "!20_ultimate_bass"
